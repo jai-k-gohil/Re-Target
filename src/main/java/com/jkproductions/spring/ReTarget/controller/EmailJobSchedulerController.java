@@ -1,5 +1,6 @@
 package com.jkproductions.spring.ReTarget.controller;
 
+import com.jkproductions.spring.ReTarget.jobs.EmailJob;
 import com.jkproductions.spring.ReTarget.payload.ScheduleEmailRequest;
 import com.jkproductions.spring.ReTarget.payload.ScheduleEmailResponse;
 import org.quartz.*;
